@@ -44,9 +44,9 @@ const Footer = () => {
         {/* Contact */}
         <div>
           <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
-          <p>Email: support@clothingstore.com</p>
-          <p>Phone: +1 (123) 456-7890</p>
-          <p>Address: 123 Fashion Street, New York, NY</p>
+          <p>Email: dexlanka@gmail.com</p>
+          <p>Phone: (+94) 70 558 8789</p>
+          <p>Address: Ovitigama, Meegoda</p>
         </div>
       </div>
 
