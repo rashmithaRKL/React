@@ -114,16 +114,16 @@ const ContactPage = () => {
             <div className="mb-8">
               <h3 className="text-xl font-semibold">Address</h3>
               <p className="text-gray-600 mt-2">
-                123 Business Avenue, City, Country
+                Ovitigama, Meegoda, Sri lanka
               </p>
             </div>
             <div className="mb-8">
               <h3 className="text-xl font-semibold">Phone</h3>
-              <p className="text-gray-600 mt-2">+123 456 7890</p>
+              <p className="text-gray-600 mt-2">+94 70 558 8789</p>
             </div>
             <div>
               <h3 className="text-xl font-semibold">Email</h3>
-              <p className="text-gray-600 mt-2">contact@yourbusiness.com</p>
+              <p className="text-gray-600 mt-2">dexlanka@gmail.com</p>
             </div>
           </motion.div>
         </div>
