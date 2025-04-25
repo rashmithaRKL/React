@@ -149,7 +149,7 @@ const ContactPage = () => {
         >
           <iframe
             title="Google Map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243646.0792918911!2d-74.258188018633!3d40.70531115461378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2501f71b2ba81%3A0xb1e5ee48e08b4cb1!2sManhattan%2C%20NY%2010012%2C%20USA!5e0!3m2!1sen!2s!4v1684544000000!5m2!1sen!2s"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.481774934834!2d80.04007167574686!3d6.832692793165292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae253a3d37ac853%3A0x88205e1a91e6c19b!2sRK%20Software%20Technologies!5e0!3m2!1sen!2slk!4v1745613841613!5m2!1sen!2slk"
             width="100%"
             height="100%"
             frameBorder="0"
